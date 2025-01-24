@@ -2,3 +2,4 @@ This file is from develop. We are practicing git rebase.
 
 Notes:
 - This file has been fixed by YOU!
+- This line added to test on the branch restriction in develop
